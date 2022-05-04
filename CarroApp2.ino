@@ -1,4 +1,9 @@
-//Controlar carrinho pelo aplicativo gerado no MIT App Inventor
+Projeto: Carrinho controlado por aplicativo Android
+
+Autor: Rugelli Oliveira
+
+Arquivo : CarroApp2.ino (Arduino files) 
+Compilador : Arduino IDE
 
 #include <WiFi.h>
 
